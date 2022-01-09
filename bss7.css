@@ -1,0 +1,57 @@
+#aaaaaa{
+    background-color: darkturquoise;
+    width: 76%;
+    height: 750px;
+    
+}
+#bb,#cc,#dd,#ee,#ff,#gg,#hh,#ii,#jj,#n{
+    border: solid 2px;
+        height: 242px;
+        width: 275px;
+        margin-top: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+}
+#bb {display:inline-block;margin-right:10px;} 
+#cc {display:inline-block;}
+#dd{display: inline-block;}
+#n{display: inline-block;}
+#dd{
+    margin-left: 10px;
+}
+#ee {display:inline-block;margin-right:10px;} 
+#ff {display:inline-block;}
+#gg{display: inline-block;}
+#gg{
+    margin-left: 10px;
+}
+#hh {display:inline-block;margin-right:10px;} 
+#ii {display:inline-block;}
+#jj{display: inline-block;}
+#jj{
+    margin-left: 10px;
+}
+#aa{
+    background-color: darkviolet;
+    height: 500px;
+    width: 420px;
+    
+}
+#aaaaaa {display:inline-block;margin-right:10px;} 
+#aa {display:inline-block;}
+#ab{
+    border: solid 2px;
+    height: 250px;
+    width: 390px;
+    background-color: deeppink;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#ac{
+    height: 155px;
+    width: 350px;
+    background-color: deepskyblue;
+    margin-left: 15px;
+    background-image: url("screenshot (57).png");
+    background-size: 500px;
+}

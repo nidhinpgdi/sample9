@@ -1,0 +1,29 @@
+body{
+    background-image: url(15.PNG);
+}
+#aaa{
+    height: 700px;
+    width: 400px;
+    margin-left: 37%;
+    border: solid 1px;
+    background: white;
+    background-image: url(15.PNG);
+
+    
+
+}
+button{
+    color: white;
+    background: darkslategray;
+    width: 100%;
+}
+#bbb{
+    text-align: center;
+}
+#a,#b,#c,#d,#e,#f{
+    width: 97%;
+    border-radius: 50px;
+    background-color: lightgray;
+    margin-right: 100px;
+
+}
